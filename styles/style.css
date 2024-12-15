@@ -48,8 +48,8 @@
 .content {
   display: grid;
   justify-content: center;
-  gap: 50px; 
-  margin-block-end: 105px; 
+  gap: 50px;
+  margin-block-end: 105px;
   margin-block-start: 100px;
 }
 
